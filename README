@@ -1,0 +1,3 @@
+This is just a little AppleScript project I used to learn how to use the language. It uses AppleScript's native ability to take iTunes info and print it.
+
+The song time, song title, album title, and artist are listed. This works best with GeekTool () with a refresh rate of 1 second to provide a constant update on your desktop. This is a very lightweight program and with GeekTool, it is just rolled into the GeekTool process and is windowless.
